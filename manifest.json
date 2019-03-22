@@ -1,0 +1,22 @@
+{
+    "author": "vove\nhttps://github.com/vove7/QrCode-for-Edge",
+    "description": "生成链接二维码",
+    "icons":
+      {
+        "48": "icons/icons8-qr-code-48.png",
+        "96": "icons/icons8-qr-code-96.png"
+      },
+    "manifest_version": 2,
+    "name": "二维码生成器 for Edge",
+    "version": "1.0",
+    "permissions": [
+      "tabs"
+    ],
+    "browser_action": {
+      "default_icon": {
+        "30": "icons/icons8-qr-code-30.png"
+      },
+      "default_title": "二维码生成器",
+      "default_popup": "home.html"
+    }
+  }
