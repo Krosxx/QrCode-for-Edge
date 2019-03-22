@@ -7,9 +7,9 @@
 
 2. 在Edge地址栏输入`about:flags`,开启开发模式
 
-![](img/adout_flags.jpg)
+<img  width="300" src="img/adout_flags.jpg"></img>
 
 3. 重启Edge后,选择加载扩展,选择项目目录即可
 
-![](img/load_extension.jpg)
+<img width="200" src="img/load_extension.jpg"></img>
 
