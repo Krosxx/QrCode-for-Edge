@@ -1,6 +1,8 @@
 ## 二维码生成插件 for Edge
 ![](icons/icons8-qr-code-96.png)
 
+### [Edge(Chromium)版在这里](https://github.com/Vove7/QrCode-for-Edge-Chromium-)
+
 ### 安装方法:
 
 1. clone 此项目
@@ -13,3 +15,9 @@
 
 <img width="200" src="img/load_extension.jpg"></img>
 
+
+### Thanks
+
+- [jQuery](https://jquery.com/)
+
+- [jquery-qrcode](https://github.com/jeromeetienne/jquery-qrcode)
