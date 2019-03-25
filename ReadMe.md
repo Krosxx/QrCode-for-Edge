@@ -3,6 +3,11 @@
 
 ### [Edge(Chromium)版在这里](https://github.com/Vove7/QrCode-for-Edge-Chromium-)
 
+
+### 预览
+
+![](img/preview.png)
+
 ### 安装方法:
 
 1. clone 此项目
